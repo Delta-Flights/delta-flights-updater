@@ -53,9 +53,6 @@ The package versions and shared build settings are defined in `Directory.Package
 5. Reconstruct files in temporary locations.
 6. Verify chunk and final file hashes.
 7. Record the patch result and clean temporary state.
-
-![Update Client Layout](assets/launcher-main.png)
-
 ## Usage
 
 Build the library first, then integrate the manifest and patch components into the host application.
